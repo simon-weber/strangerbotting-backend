@@ -1,0 +1,3 @@
+#!/bin/bash
+kill $(pgrep server)
+exit 0
